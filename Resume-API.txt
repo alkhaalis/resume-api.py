@@ -1,0 +1,61 @@
+{
+    "personal_info": {
+        "name": "Aldrich Khaalis Wooden",
+        "address": "32 Addison Park Drive Apt 104 Huntsville, AL 35806",
+        "phone": "256.988.1130",
+        "email": "khaaliswooden@outlook.com"
+    },
+    "professional_summary": "Seasoned Project Manager and Operations Leader with over a decade of experience...",
+    "education": [
+        {
+            "degree": "Master of Business Administration in Engineering Management",
+            "institution": "Southern New Hampshire University (SNHU)",
+            "graduation_date": "Expected April 2026",
+            "focus_areas": ["Strategic Leadership", "Innovation", "Project Management", "Agile Methodologies"],
+            "honors": ["Dean's List for Academic Excellence"]
+        },
+        {
+            "degree": "Bachelor of Arts in General Studies, Concentration in Business Administration",
+            "institution": "Southern New Hampshire University (SNHU)",
+            "graduation_date": "September 2024",
+            "honors": ["Dean's List for Academic Excellence"]
+        }
+    ],
+    "work_experience": [
+        {
+            "company": "Amazon, Inc.",
+            "location": "Huntsville, AL",
+            "roles": [
+                {
+                    "title": "Process Assistant",
+                    "dates": "Oct 2023 - Aug 2024",
+                    "responsibilities": [
+                        "Efficiently managed all inbound freight operations.",
+                        "Expertly operated all six types of Powered Industrial Trucks (PIT).",
+                        "Implemented process improvements for stowing operations."
+                    ]
+                },
+                {
+                    "title": "Learning Ambassador",
+                    "dates": "May 2023 - Oct 2023",
+                    "responsibilities": [
+                        "Trained team members on stowing processes.",
+                        "Oversaw stowing operations to uphold quality standards."
+                    ]
+                }
+            ]
+        }
+    ],
+    "skills": [
+        "Project Management", "Supply Chain Management", "IT Strategy & Systems Integration",
+        "Engineering Solutions", "Quality Assurance", "Leadership & Team Development"
+    ],
+    "certifications": [
+        "Project Management", "Certified Supply Chain Professional", "Six Sigma Green Belt",
+        "Scrum", "Agile Methodologies", "Robotic Process Automation"
+    ],
+    "accomplishments": [
+        "Contributed to a record-breaking 87% increase in freshman enrollment at Albany State University.",
+        "Authored a paper on inefficiencies in the Halal Certification Process."
+    ]
+}
